@@ -39,7 +39,7 @@ public class L2022211966_12_Test {
     @Test
     public void multiply_MultiDigit_ReturnsProduct() {
         assertEquals("111", solution.multiply("3", "37"));
-        assertEquals("56089", solution.multiply("123", "456"));
+        assertEquals("56088", solution.multiply("123", "456"));
     }
 
     //测试乘法方法，当两个操作数是较大的数字时，结果是否正确。
